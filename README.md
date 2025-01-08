@@ -46,3 +46,4 @@ Conclusion
 In this project, the task of migrating data between MySQL and PostgreSQL was successfully completed by following a structured approach. By creating an equivalent table in PostgreSQL, transferring the data using the appropriate SQL commands, and ensuring data integrity throughout the process, the migration was executed smoothly. The project demonstrated how data can be transferred between two different database management systems while maintaining the consistency and integrity of the data. This process is essential in database migration projects, especially when transitioning from one database system to another. By ensuring that all the constraints and data types are handled properly, the integrity of the data can be preserved, and the migration can be completed successfully.
 
 #OUTPUT:
+![Screenshot 2025-01-08 234623](https://github.com/user-attachments/assets/95718472-e27f-4de3-9443-9bfdd2f5669d)
